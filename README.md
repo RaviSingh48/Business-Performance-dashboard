@@ -55,6 +55,3 @@ This dashboard demonstrates how raw business data can be transformed into meanin
 
 ---
 
-## 👨‍💻 Author
-
-Ravi Singh
